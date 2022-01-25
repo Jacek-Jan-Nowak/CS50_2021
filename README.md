@@ -25,8 +25,7 @@ My solutions to problem sets and labs of Harvard's CS50x 2021. Introduction to t
 
 ### Problem set 1
 
-* [Mario less version](pset1/mario/less/mario.c)
-* [Mario more version](pset1/mario/more/mario.c)
+* [Mario more version](pset1/mario/mario.c)
 * [Cash](pset1/cash/cash.c)
 * [Credit](pset1/credit/credit.c)
 
@@ -35,25 +34,25 @@ My solutions to problem sets and labs of Harvard's CS50x 2021. Introduction to t
 
 ### Lab 2
 
-* [Scrabble](week2/lab2/scrabble/scrabble.c)
+* [Scrabble](week2/scrabble/scrabble.c)
 
 ### Problem set 2
 
-* [Readability](week2/pset2/readability/readability.c)
-* [Caesar](week2/pset2/caesar/caesar.c)
-* [Substitution](week2/pset2/substitution/substitution.c)
+* [Readability](pset2/readability/readability.c)
+* [Caesar](pset2/caesar/caesar.c)
+* [Substitution](pset2/substitution/substitution.c)
 
 ## Week 3
 
 ### Lab 3
 
-* [Sort](week3/lab3/sort/answers.txt)
+* [Sort](lab3/sort/answers.txt)
 
 ### Problem set 3
 
-* [Plurality](week3/pset3/plurality/plurality.c)
-* [Runoff](week3/pset3/runoff/runoff.c)
-* [Tideman](week3/pset3/tideman/tideman.c)
+* [Plurality](pset3/plurality/plurality.c)
+* [Runoff](pset3/runoff/runoff.c)
+* [Tideman](pset3/tideman/tideman.c)
 
 ## Week 4
 
