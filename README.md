@@ -20,15 +20,15 @@ My solutions to problem sets and labs of Harvard's CS50x 2021. Introduction to t
 
 ### Lab 1
 
-* [Hello](week1/hello/hello.c)
-* [Population](week1/population/population.c)
+* [Hello](pset1/hello/hello.c)
+* [Population](pset1/population/population.c)
 
 ### Problem set 1
 
-* [Mario less version](week1/pset1/mario/less/mario.c)
-* [Mario more version](week1/pset1/mario/more/mario.c)
-* [Cash](week1/pset1/cash/cash.c)
-* [Credit](week1/pset1/credit/credit.c)
+* [Mario less version](pset1/mario/less/mario.c)
+* [Mario more version](pset1/mario/more/mario.c)
+* [Cash](pset1/cash/cash.c)
+* [Credit](pset1/credit/credit.c)
 
 
 ## Week 2
