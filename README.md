@@ -44,7 +44,7 @@ My solutions to problem sets and labs of Harvard's CS50x 2021. Introduction to t
 
 ### Lab 3
 
-* [Sort](pset3/lab3/sort/answers.txt)
+* [Sort](pset3/lab3/answers.txt)
 
 ### Problem set 3
 
