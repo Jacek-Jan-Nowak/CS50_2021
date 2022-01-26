@@ -60,7 +60,7 @@ My solutions to problem sets and labs of Harvard's CS50x 2021. Introduction to t
 ### Problem set 4
 
 * [Filter less version](pset4/filter/helpers.c)
-* [Recover](wpset4/recover/recover.c)
+* [Recover](pset4/recover/recover.c)
 
 ## Week 5
 
@@ -112,7 +112,7 @@ My solutions to problem sets and labs of Harvard's CS50x 2021. Introduction to t
 
 ### Lab 9
 
-* [Birthdays](pset9/lab9/birthdays)
+* [Birthdays](pset9/lab9)
 
 ### Problem set 9
 
