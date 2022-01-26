@@ -55,7 +55,7 @@ My solutions to problem sets and labs of Harvard's CS50x 2021. Introduction to t
 
 ### Lab 4
 
-* [Volume](pset4/lab4/volume/volume.c)
+* [Volume](pset4/lab4/volume.c)
 
 ### Problem set 4
 
