@@ -12,8 +12,6 @@ My solutions to problem sets and labs of Harvard's CS50x 2021. Introduction to t
 - [Week 7: SQL](#week-7)
 - [Week 8: HTML,CSS,JaveScript](#week-8)
 - [Week 9: Flask](#week-9)
-- [Week 10 Ethics](#week-10)
-- Final Project
 
 
 ## Week 1
@@ -46,85 +44,77 @@ My solutions to problem sets and labs of Harvard's CS50x 2021. Introduction to t
 
 ### Lab 3
 
-* [Sort](lab3/sort/answers.txt)
+* [Sort](pset3/lab3/sort/answers.txt)
 
 ### Problem set 3
 
 * [Plurality](pset3/plurality/plurality.c)
 * [Runoff](pset3/runoff/runoff.c)
-* [Tideman](pset3/tideman/tideman.c)
 
 ## Week 4
 
 ### Lab 4
 
-* [Volume](week4/lab4/volume/volume.c)
+* [Volume](pset4/lab4/volume/volume.c)
 
 ### Problem set 4
 
-* [Filter less version](week4/pset4/filter/less/helpers.c)
-* [Filter more version](week4/pset4/filter/more/helpers.c)
-* [Recover](week4/pset4/recover/recover.c)
+* [Filter less version](pset4/filter/helpers.c)
+* [Recover](wpset4/recover/recover.c)
 
 ## Week 5
 
 ### Lab 5
 
-* [Inheritance](week5/lab5/inheritance/inheritance.c)
+* [Inheritance](pset5/lab5/inheritance.c)
 
 ### Problem set 5
 
-* [Speller](week5/pset5/speller/dictionary.c)
+* [Speller](pset5/speller/dictionary.c)
 
 ## Week 6
 
 ### Lab 6
 
-* [Tournament](week6/lab6/tournament/tournament.py)
+* [Tournament](pset6/lab6/tournament.py)
 
 ### Problem set 6
 
-* [Hello - Python](week6/pset6/hello/hello.py)
-* [Mario less version - Python](week6/pset6/mario/less/mario.py)
-* [Mario more version - Python](week6/pset6/mario/more/mario.py)
-* [Cash - Python](week6/pset6/cash/cash.py)
-* [Credit - Python](week6/pset6/credit/credit.py)
-* [Readability - Python](week6/pset6/readability/readability.py)
-* [DNA](week6/pset6/dna/dna.py)
+* [Hello - Python](pset6/hello/hello.py)
+* [Mario more version - Python](pset6/mario/mario.py)
+* [Cash - Python](pset6/cash/cash.py)
+* [Credit - Python](pset6/credit/credit.py)
+* [Readability - Python](pset6/readability/readability.py)
+* [DNA](pset6/dna/dna.py)
 
 ## Week 7
 
 ### Lab 7
 
-* [Songs](week7/lab7/songs)
+* [Songs](pset7/lab7)
 
 ### Problem set 7
 
-* [Movies](week7/pset7/movies)
-* [fiftyville](week7/pset7/fiftyville)
+* [Movies](pset7/movies)
+* [fiftyville](pset7/fiftyville)
 
 ## Week 8
 
 ### Lab 8
 
-* [Trivia](week8/lab8/trivia/index.html)
+* [Trivia](pset8/lab8/index.html)
 
 ### Problem set 8
 
-* [Homepage](week8/pset8/homepage)
+* [Homepage](pset8/homepage)
 
 ## Week 9
 
 ### Lab 9
 
-* [Birthdays](week9/lab9/birthdays)
+* [Birthdays](pset9/lab9/birthdays)
 
 ### Problem set 9
 
-* [Finance](week9/pset9/finance)
+* [Finance](pset9/finance)
 
-## Week 10
-
-### Lab 10
-
-* [Ethics](week10/lab10/CS50_Week_10_Lab_Facebook_and_Fake_News.pdf)
