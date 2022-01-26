@@ -32,7 +32,7 @@ My solutions to problem sets and labs of Harvard's CS50x 2021. Introduction to t
 
 ### Lab 2
 
-* [Scrabble](week2/scrabble/scrabble.c)
+* [Scrabble](pset2/scrabble/scrabble.c)
 
 ### Problem set 2
 
